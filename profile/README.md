@@ -4,4 +4,4 @@ More info to come.
 
 Contact: eric@basednetworking.com
 
-https://discord.gg/vQ5KkTPz
+[![Discord](https://img.shields.io/discord/953132558445588571?style=for-the-badge&colorA=4c566a&colorB=88c0d0&logo=discord)](https://discord.gg/WWzAHPtqGK)
